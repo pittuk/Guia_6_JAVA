@@ -1,0 +1,1 @@
+guia6.Definir_6_Variables
