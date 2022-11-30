@@ -40,15 +40,6 @@ public class Ejercicio16ValoresAleatorios {
         }
          
          System.out.println("se encontraron " + contador + " repetidos");
-        
-        
-        
-        
-        
-        
-        
-        
-        
     }
 
 }
